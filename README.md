@@ -2,7 +2,7 @@
 
 #### I am Rishikant Tiwari, a software developer
  
-- 📱 I’m an native android app developer and a Machine learning enthusiast.
+- 📱 I’m a native android app developer and a Machine learning enthusiast.
 - ⭐ I'm also a beginner in flutter.
 - 🌱 I’m currently learning NLP
 - 📧 How to reach me: rishitiwari517@gmail.com
